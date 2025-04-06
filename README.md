@@ -1,4 +1,4 @@
-# Tagion
+# Tagion <img src="img/icon.jpg" align="right" width="120" height="120">
 
 A command-line tool for managing tags in AWS CloudFormation templates.
 
